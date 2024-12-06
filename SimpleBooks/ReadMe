@@ -1,1 +1,6 @@
-
+URL: https://simple-books-api.glitch.me
+-How to get Access Token: 
+EndPoint:  POST /api-clients/
+The request body needs to be in JSON format and include the following properties:
+• clientName - String
+• clientEmail - String
