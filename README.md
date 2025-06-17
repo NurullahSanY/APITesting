@@ -28,7 +28,7 @@
 * `PATCH` – Partially update booking info
 * `DELETE` – Delete a booking
 
-📄 Test Reports **
+📄 Test Reports \br
  ✅ API test reports are attached as Report.html in the project directory.
 
 
