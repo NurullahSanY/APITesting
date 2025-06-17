@@ -5,6 +5,7 @@
 
 
 * **Endpoint:** `POST /api-clients/`
+  
 **Authentication (Access Token – Valid for 7 Days):** 
 **Authentication (Basic Auth):**
  * "clientName": "Your Name",
