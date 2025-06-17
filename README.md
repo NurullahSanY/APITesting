@@ -4,7 +4,7 @@
 🔗 [https://simple-books-api.glitch.me](https://simple-books-api.glitch.me)
 **Authentication (Access Token – Valid for 7 Days):**
 
-* **Endpoint:** `POST /api-clients/`
+* **Endpoint:** `POST /api-clients/` //
 **Authentication (Basic Auth):**
  * "clientName": "Your Name",
  * "clientEmail": "your@email.com"
@@ -16,7 +16,7 @@
 * `DELETE` – Cancel an order
 
 #### 2. **Restful Booker API**
-🔗 [https://restful-booker.herokuapp.com/booking/](https://restful-booker.herokuapp.com/booking/)
+🔗 [https://restful-booker.herokuapp.com/booking/](https://restful-booker.herokuapp.com/booking/) //
 **Authentication (Basic Auth):**
 * "Username:" "admin"
 * "Password:" "password123"
@@ -27,5 +27,11 @@
 * `PUT` – Update full booking data
 * `PATCH` – Partially update booking info
 * `DELETE` – Delete a booking
+
+📄 Test Reports
+ ✅ API test reports are attached as Report.html in the project directory.
+
+
+
 
 
