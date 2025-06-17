@@ -4,9 +4,8 @@
 🔗 [https://simple-books-api.glitch.me](https://simple-books-api.glitch.me)
 
 
-* **Endpoint:** `POST /api-clients/`
-  
-**Authentication (Access Token – Valid for 7 Days):** 
+* **Endpoint:** `POST /api-clients/` [Authentication (Access Token – Valid for 7 Days)]
+
 **Authentication (Basic Auth):**
  * "clientName": "Your Name",
  * "clientEmail": "your@email.com"
